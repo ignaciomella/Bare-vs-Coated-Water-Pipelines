@@ -1,11 +1,3 @@
-# Bare-vs-Coated-Water-Pipelines
-
-Improve my github Readme related to this document. I want to emphasize that I don't expect to be a static document, but to improve it by iteration with collaborators who which to validate, provide sources/reference, extend it to improve scope or just by simple comments on it. 
-
-My goal is to put this out there for whomever can improve it.
-
-### Improved GitHub README Template
-
 # Pipeline Coating Cost and Performance Analysis
 
 Welcome to the **Pipeline Coating Cost and Performance Analysis** repository! This document explores the cost, performance, and inspection methodologies of field-applied and shop-applied coatings for steel pipelines, focusing on **Fusion Bonded Epoxy (FBE)** coatings and their applications in industrial pipelines. The analysis includes insights into cost disparities, technical challenges, and opportunities for improvement in pipeline coating practices.
