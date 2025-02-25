@@ -13,6 +13,8 @@ This repository is a **living document**, designed to grow and improve through c
 - Challenges of field applications: Heat-affected zones, contamination risks (e.g., ferrous oxide as shown in Photo 2), and coating adhesion.
 - Innovations in pipeline coating technologies to eliminate the need for field joint coatings.
 
+<img src="https://pplx-res.cloudinary.com/image/upload/v1740398306/user_uploads/naPZbzEAEsCblMr/image.jpg">
+
 ---
 
 ## Why Collaborate?
@@ -68,7 +70,7 @@ Thank you to everyone who contributes their time and expertise to improving this
 ## Contact
 Feel free to reach out if you have questions about contributing or need clarification on any part of the document:
 - **Email**: Ignacio.mella@gmail.com 
-- **GitHub Issues Tab**: [Repository Link]
+- **GitHub Issues Tab**: <a href="https://github.com/ignaciomella/Bare-vs-Coated-Water-Pipelines/issues">Issues Tab</a>
 
 Let’s collaborate to make this resource as robust as possible!
 
