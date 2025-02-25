@@ -1,6 +1,7 @@
-# Pipeline Coating Cost and Performance Analysis
+# Comparative Analysis of Corrosion Mitigation Strategies in Water Pipelines: Interior Epoxy Coating vs Bare Pipe
 
-Welcome to the **Pipeline Coating Cost and Performance Analysis** repository! This document explores the cost, performance, and inspection methodologies of field-applied and shop-applied coatings for steel pipelines, focusing on **Fusion Bonded Epoxy (FBE)** coatings and their applications in industrial pipelines. The analysis includes insights into cost disparities, technical challenges, and opportunities for improvement in pipeline coating practices.
+
+Welcome to the **Pipeline Interior Epoxy Coating vs Bare Pipe Analysis** repository! This document explores the cost, performance, and inspection methodologies of field-applied and shop-applied coatings for steel pipelines, focusing on **Fusion Bonded Epoxy (FBE)** coatings and their applications in industrial pipelines. The analysis includes insights into cost disparities, technical challenges, and opportunities for improvement in pipeline coating practices.
 
 ## Repository Overview
 
