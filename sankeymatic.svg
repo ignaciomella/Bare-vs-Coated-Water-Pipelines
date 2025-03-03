@@ -1,0 +1,121 @@
+<svg height="600" width="1000" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 3/3/2025, 4:30:46 PM -->
+<rect height="600" width="1000" fill="#ffffff"></rect>
+<g transform="translate(103.52396,0)">
+<g id="sankey_flows">
+<path id="flow8" d="M332.8775 121.602v253.82851L449.04661 375.37689v-253.82851z" fill="#00b5ff" stroke-width="0.5" stroke="#00b5ff" opacity="0.8"><title>Coated Pipe → Bare Pipe: $49.2 MM</title></path>
+<path id="flow11" d="M474.04661 277.86959C557.48692 277.86959 525.18745 283.89727 608.62776 283.89727" fill="none" stroke-width="252.79669" stroke="#005b80" opacity="0.8"><title>Bare Pipe → Bare OPEX: $49.0 MM</title></path>
+<path id="flow15" d="M633.62776 283.89727C706.90649 283.89727 678.54053 276.27251 751.81926 276.27251" fill="none" stroke-width="252.79669" stroke="#003c54" opacity="0.8"><title>Bare OPEX → Bare Friction Energy: $49.0 MM</title></path>
+<path id="flow2" d="M25 254.52371C112.86387 254.52371 78.85205 248.27905 166.71592 248.27905" fill="none" stroke-width="185.72818" stroke="#0080b3" opacity="0.8"><title>Coated Friction Energy → Coated OPEX: $36.0 MM</title></path>
+<path id="flow6" d="M191.71592 248.27905C263.7361 248.27905 235.85732 263.9936 307.8775 263.9936" fill="none" stroke-width="185.72818" stroke="#0080b3" opacity="0.8"><title>Coated OPEX → Coated Pipe: $36.0 MM</title></path>
+<path id="flow9" d="M25.83452 468.26884C288.22601 468.26884 186.65511 434.96468 449.04661 434.96468" fill="none" stroke-width="119.17558" stroke="#0db14b" opacity="0.8"><title>Savings → Bare Pipe: $23.1 MM</title></path>
+<path id="flow12" d="M474.04661 430.57943C557.48692 430.57943 525.18745 436.6071 608.62776 436.6071" fill="none" stroke-width="52.62298" stroke="#005b80" opacity="0.8"><title>Bare Pipe → Bare OPEX: $10.2 MM</title></path>
+<path id="flow16" d="M633.62776 436.6071C706.90649 436.6071 678.54053 439.90846 751.81926 439.90846" fill="none" stroke-width="52.62298" stroke="#003c54" opacity="0.8"><title>Bare OPEX → Inhibitors: $10.2 MM</title></path>
+<path id="flow0" d="M25 44.37169C112.29986 44.37169 78.50636 90.23165 165.80622 90.23165" fill="none" stroke-width="42.82066" stroke="#0080b3" opacity="0.8"><title>Field Joint Coating → Coated CAPEX: $8.3 MM</title></path>
+<path id="flow4" d="M190.80622 90.23165C263.39042 90.23165 235.29331 143.01233 307.8775 143.01233" fill="none" stroke-width="42.82066" stroke="#009bd9" opacity="0.8"><title>Coated CAPEX → Coated Pipe: $8.3 MM</title></path>
+<path id="flow13" d="M474.04661 475.72169C557.48692 475.72169 525.18745 481.74936 608.62776 481.74936" fill="none" stroke-width="37.66155" stroke="#005b80" opacity="0.8"><title>Bare Pipe → Bare OPEX: $7.3 MM</title></path>
+<path id="flow17" d="M633.62776 481.74936C706.90649 481.74936 678.54053 499.16903 751.81926 499.16903" fill="none" stroke-width="37.66155" stroke="#003c54" opacity="0.8"><title>Bare OPEX → Bare Inspections: $7.3 MM</title></path>
+<path id="flow10" d="M474.04661 136.25186C557.4776 136.25186 525.18173 62.65031 608.61273 62.65031" fill="none" stroke-width="30.43878" stroke="#005b80" opacity="0.8"><title>Bare Pipe → Bare CAPEX: $5.9 MM</title></path>
+<path id="flow14" d="M633.61273 62.65031C706.90078 62.65031 678.53121 36.51529 751.81926 36.51529" fill="none" stroke-width="30.43878" stroke="#003c54" opacity="0.8"><title>Bare CAPEX → Corrosion Extra Steel: $5.9 MM</title></path>
+<path id="flow3" d="M25 381.53464C112.86387 381.53464 78.85205 350.42955 166.71592 350.42955" fill="none" stroke-width="18.57282" stroke="#0080b3" opacity="0.8"><title>Coated Inspections → Coated OPEX: $3.6 MM</title></path>
+<path id="flow7" d="M191.71592 350.42955C263.7361 350.42955 235.85732 366.1441 307.8775 366.1441" fill="none" stroke-width="18.57282" stroke="#0080b3" opacity="0.8"><title>Coated OPEX → Coated Pipe: $3.6 MM</title></path>
+<path id="flow1" d="M25 100.89623C112.29986 100.89623 78.50636 114.99541 165.80622 114.99541" fill="none" stroke-width="6.70685" stroke="#0080b3" opacity="0.8"><title>Shop Coating → Coated CAPEX: $1.3 MM</title></path>
+<path id="flow5" d="M190.80622 114.99541C263.39042 114.99541 235.29331 167.77609 307.8775 167.77609" fill="none" stroke-width="6.70685" stroke="#009bd9" opacity="0.8"><title>Coated CAPEX → Coated Pipe: $1.3 MM</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="0" height="42.82066" width="25" fill="#0080b3" fill-opacity="1" transform="translate(0,22.96136)"><title>Field Joint Coating:
+$8.3 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="150.36385" y="54.42096" height="49.52751" width="25" fill="#009bd9" fill-opacity="1" transform="translate(15.44237,14.40036)"><title>Coated CAPEX:
+$9.6 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="0" y="118.314" height="6.70685" width="25" fill="#0080b3" fill-opacity="1" transform="translate(0,-20.77119)"><title>Shop Coating:
+$1.3 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="0" y="200.51418" height="185.72818" width="25" fill="#0080b3" fill-opacity="1" transform="translate(0,-38.85455)"><title>Coated Friction Energy:
+$36.0 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="150.36385" y="179.44181" height="204.30099" width="25" fill="#0080b3" fill-opacity="1" transform="translate(16.35207,-24.02684)"><title>Coated OPEX:
+$39.6 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="0" y="461.73569" height="18.57282" width="25" fill="#0080b3" fill-opacity="1" transform="translate(0,-89.48746)"><title>Coated Inspections:
+$3.6 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="300.7277" y="101.32327" height="253.82851" width="25" fill="#00b5ff" fill-opacity="1" transform="translate(7.1498,20.27873)"><title>Coated Pipe:
+$49.2 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="451.09155" y="115.01263" height="373.52" width="25" fill="#005b80" fill-opacity="1" transform="translate(-2.04495,6.01984)"><title>Bare Pipe:
+$72.4 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="300.7277" y="430.64511" height="119.17558" width="25" fill="#0db14b" fill-opacity="1" transform="translate(-299.89318,-21.96406)"><title>Savings:
+$23.1 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="601.45541" y="35.7663" height="30.43878" width="25" fill="#003c54" fill-opacity="1" transform="translate(7.15732,11.66461)"><title>Bare CAPEX:
+$5.9 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="601.45541" y="141.69842" height="343.08122" width="25" fill="#003c54" fill-opacity="1" transform="translate(7.17236,15.80051)"><title>Bare OPEX:
+$66.5 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="751.81926" y="0" height="30.43878" width="25" fill="#bfd8ec" fill-opacity="1" transform="translate(0,21.29589)"><title>Corrosion Extra Steel:
+$5.9 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="751.81926" y="105.93212" height="252.79669" width="25" fill="#bfd8ec" fill-opacity="1" transform="translate(0,43.94205)"><title>Bare Friction Energy:
+$49.0 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="751.81926" y="434.22214" height="52.62298" width="25" fill="#bfd8ec" fill-opacity="1" transform="translate(0,-20.62517)"><title>Inhibitors:
+$10.2 MM</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="751.81926" y="562.33845" height="37.66155" width="25" fill="#bfd8ec" fill-opacity="1" transform="translate(0,-82.00019)"><title>Bare Inspections:
+$7.3 MM</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="21.5px" fill="#000000">
+<text text-anchor="middle" x="396.47604" y="595" font-size="12px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-88.35209" y="-3.80832" width="86.01023" height="50.50731" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,22.96136)"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-9.03287" y="21.41033" font-weight="700" font-size="14.41075px" dy="-8.63037" transform="translate(0,22.96136)">Field Joint<tspan x="-9.03287" dy="15.13128" font-weight="700" font-size="14.41075px">Coating</tspan><tspan x="-9.03287" dy="12.69947" font-weight="100" font-size="11.32273px">$8.3 MM</tspan></text>
+<rect id="label1_bg" class="for_r1" x="130.5908" y="52.83089" width="65.11961" height="52.35762" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(15.44237,14.40036)"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="162.86385" y="79.18471" font-weight="700" font-size="14.85103px" dy="-8.76553" transform="translate(15.44237,14.40036)">Coated<tspan x="162.86385" dy="15.59358" font-weight="700" font-size="14.85103px">CAPEX</tspan><tspan x="162.86385" dy="13.08747" font-weight="100" font-size="11.66866px">$9.6 MM</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-94.5474" y="105.97901" width="92.20555" height="31.28681" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-20.77119)"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-9.03287" y="121.66742" font-weight="700" font-size="12.04px" dy="-0.60013" transform="translate(0,-20.77119)">Shop Coating<tspan x="-9.03287" dy="10.61025" font-weight="100" font-size="9.46px">$1.3 MM</tspan></text>
+<rect id="label3_bg" class="for_r3" x="-103.52396" y="240.79984" width="101.18211" height="104.60686" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-38.85455)"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="-9.03287" y="293.37827" font-weight="700" font-size="23.79212px" dy="-26.99013" transform="translate(0,-38.85455)">Coated<tspan x="-9.03287" dy="24.98173" font-weight="700" font-size="23.79212px">Friction</tspan><tspan x="-9.03287" dy="24.98173" font-weight="700" font-size="23.79212px">Energy</tspan><tspan x="-9.03287" dy="20.96681" font-weight="100" font-size="18.69381px">$36.0 MM</tspan></text>
+<rect id="label4_bg" class="for_r4" x="112.48924" y="239.65742" width="101.32273" height="83.47975" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(16.35207,-24.02684)"></rect>
+<text id="label4" class="for_r4" text-anchor="middle" x="162.86385" y="281.5923" font-weight="700" font-size="25.01136px" dy="-14.8466" transform="translate(16.35207,-24.02684)">Coated<tspan x="162.86385" dy="26.26193" font-weight="700" font-size="25.01136px">OPEX</tspan><tspan x="162.86385" dy="22.04126" font-weight="100" font-size="19.65179px">$39.6 MM</tspan></text>
+<rect id="label5_bg" class="for_r5" x="-87.50834" y="447.65549" width="85.16648" height="46.43318" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-89.48746)"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="-9.03287" y="471.0221" font-weight="700" font-size="12.81896px" dy="-7.77831" transform="translate(0,-89.48746)">Coated<tspan x="-9.03287" dy="13.45991" font-weight="700" font-size="12.81896px">Inspections</tspan><tspan x="-9.03287" dy="11.29671" font-weight="100" font-size="10.07204px">$3.6 MM</tspan></text>
+<rect id="label6_bg" class="for_r6" x="257.17339" y="181.17811" width="112.68211" height="93.25887" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(7.1498,20.27873)"></rect>
+<text id="label6" class="for_r6" text-anchor="middle" x="313.2277" y="228.23753" font-weight="700" font-size="28.26267px" dy="-16.97114" transform="translate(7.1498,20.27873)">Coated<tspan x="313.2277" dy="29.67581" font-weight="700" font-size="28.26267px">Pipe</tspan><tspan x="313.2277" dy="24.90648" font-weight="100" font-size="22.20639px">$49.2 MM</tspan></text>
+<rect id="label7_bg" class="for_r7" x="393.81069" y="242.986" width="140.13523" height="116.93331" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-2.04495,6.01984)"></rect>
+<text id="label7" class="for_r7" text-anchor="middle" x="463.59155" y="301.77263" font-weight="700" font-size="36.12px" dy="-21.69837" transform="translate(-2.04495,6.01984)">Bare<tspan x="463.59155" dy="37.926" font-weight="700" font-size="36.12px">Pipe</tspan><tspan x="463.59155" dy="31.83075" font-weight="100" font-size="28.38px">$72.4 MM</tspan></text>
+<rect id="label8_bg" class="for_r8" x="209.95373" y="467.1113" width="88.43211" height="45.79323" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-299.89318,-21.96406)"></rect>
+<text id="label8" class="for_r8" text-anchor="end" x="291.69483" y="490.2329" font-weight="700" font-size="19.42318px" dy="-1.53333" transform="translate(-299.89318,-21.96406)">Savings<tspan x="291.69483" dy="17.11668" font-weight="100" font-size="15.26107px">$23.1 MM</tspan></text>
+<rect id="label9_bg" class="for_r9" x="583.84249" y="26.51192" width="60.7993" height="48.43754" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(7.15732,11.66461)"></rect>
+<text id="label9" class="for_r9" text-anchor="middle" x="613.95541" y="50.98569" font-weight="700" font-size="13.59792px" dy="-8.38549" transform="translate(7.15732,11.66461)">Bare<tspan x="613.95541" dy="14.27781" font-weight="700" font-size="13.59792px">CAPEX</tspan><tspan x="613.95541" dy="11.98317" font-weight="100" font-size="10.68408px">$5.9 MM</tspan></text>
+<rect id="label10_bg" class="for_r10" x="547.67452" y="257.6569" width="133.13523" height="110.5743" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(7.17236,15.80051)"></rect>
+<text id="label10" class="for_r10" text-anchor="middle" x="613.95541" y="313.23903" font-weight="700" font-size="34.1218px" dy="-20.49387" transform="translate(7.17236,15.80051)">Bare<tspan x="613.95541" dy="35.82789" font-weight="700" font-size="34.1218px">OPEX</tspan><tspan x="613.95541" dy="30.06984" font-weight="100" font-size="26.80999px">$66.5 MM</tspan></text>
+<rect id="label11_bg" class="for_r11" x="779.1611" y="-9.25438" width="84.2368" height="48.43754" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,21.29589)"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="785.85213" y="15.21939" font-weight="700" font-size="13.59792px" dy="-8.38549" transform="translate(0,21.29589)">Corrosion<tspan x="785.85213" dy="14.27781" font-weight="700" font-size="13.59792px">Extra Steel</tspan><tspan x="785.85213" dy="11.98317" font-weight="100" font-size="10.68408px">$5.9 MM</tspan></text>
+<rect id="label12_bg" class="for_r12" x="779.1611" y="171.2441" width="117.31492" height="121.7327" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,43.94205)"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="785.85213" y="232.33046" font-weight="700" font-size="28.19494px" dy="-31.99808" transform="translate(0,43.94205)">Bare<tspan x="785.85213" dy="29.60468" font-weight="700" font-size="28.19494px">Friction</tspan><tspan x="785.85213" dy="29.60468" font-weight="700" font-size="28.19494px">Energy</tspan><tspan x="785.85213" dy="24.84679" font-weight="100" font-size="22.15316px">$49.0 MM</tspan></text>
+<rect id="label13_bg" class="for_r13" x="779.1611" y="441.88709" width="82.51805" height="36.9431" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-20.62517)"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="785.85213" y="460.53363" font-weight="700" font-size="15.05423px" dy="-1.05827" transform="translate(0,-20.62517)">Inhibitors<tspan x="785.85213" dy="13.26654" font-weight="100" font-size="11.82833px">$10.2 MM</tspan></text>
+<rect id="label14_bg" class="for_r14" x="779.1611" y="555.88267" width="92.14305" height="49.8532" rx="5.375" fill="#fff" fill-opacity="0.5" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-82.00019)"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="785.85213" y="581.16923" font-weight="700" font-size="14.07207px" dy="-8.69833" transform="translate(0,-82.00019)">Bare<tspan x="785.85213" dy="14.77567" font-weight="700" font-size="14.07207px">Inspections</tspan><tspan x="785.85213" dy="12.40101" font-weight="100" font-size="11.05662px">$7.3 MM</tspan></text>
+</g>
+</g></svg>
