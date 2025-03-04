@@ -1,4 +1,4 @@
-// SankeyMATIC diagram inputs - Saved: 3/3/2025, 4:30:30 PM
+// SankeyMATIC diagram inputs - Saved: 3/4/2025, 4:00:39 PM
 // https://sankeymatic.com/build/
 
 // === Nodes and Flows ===
@@ -43,8 +43,8 @@ Bare\nOPEX [ 7.3 ] Bare\nInspections
 
 // === Settings ===
 
-size w 1000
-  h 600
+size w 1500
+  h 700
 margin l 0
   r 0
   t 0
@@ -109,6 +109,6 @@ move Coated\nInspections 0, -0.15391
 move Coated\nFriction\nEnergy 0, -0.09379
 move Bare\nFriction\nEnergy 0.00266, 0.12656
 move Bare\nOPEX 0.00954, 0.0615
-move Coated\nPipe 0.00951, 0.05858
+move Coated\nPipe 0.0191, 0.03878
 move Coated\nOPEX 0.02175, -0.06072
 move Bare\nPipe -0.00272, 0.02658
