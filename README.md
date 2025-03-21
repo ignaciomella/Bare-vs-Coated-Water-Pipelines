@@ -79,5 +79,3 @@ Citations:
 [1] image.jpg https://pplx-res.cloudinary.com/image/upload/v1740398306/user_uploads/naPZbzEAEsCblMr/image.jpg
 
 <a href="https://doi.org/10.5281/zenodo.14911682"><img src="https://zenodo.org/badge/919184867.svg" alt="DOI"></a>
-
-<img src="https://github.com/ignaciomella/Bare-vs-Coated-Water-Pipelines/blob/main/sankeymatic.svg" alt="Sankey Chart Total Expenditure">
